@@ -1,11 +1,4 @@
 # EJB JSP
-Technologies Used:
-
-WildFly: An open-source application server developed by Red Hat, lightweight and flexible, for Java EE applications.
-
-EJB (Enterprise JavaBeans): A server-side architecture for the modular construction of enterprise applications in Java.
-
-JSP (JavaServer Pages): A technology for creating dynamically generated web pages, widely used in the development of dynamic Java EE web applications.
 
 Demonstration Video: 
 
