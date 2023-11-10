@@ -1,5 +1,4 @@
-# ejb-et-jsp-implemetation
-ect
+# EJB JSP
 Technologies Used:
 
 WildFly: An open-source application server developed by Red Hat, lightweight and flexible, for Java EE applications.
